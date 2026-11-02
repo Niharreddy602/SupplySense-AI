@@ -9,7 +9,7 @@ import {
   AnomalyItem
 } from '../types';
 
-const API_BASE = import.meta.env.VITE_API_BASE || '/api';
+const API_BASE = 'https://supply sense-ai-t6pd.onrender.com';
 
 const client = axios.create({
   baseURL: API_BASE,
