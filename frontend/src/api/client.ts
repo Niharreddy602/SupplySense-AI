@@ -9,7 +9,7 @@ import {
   AnomalyItem
 } from '../types';
 
-const API_BASE = 'https://supply sense-ai-t6pd.onrender.com';
+const API_BASE = 'http://localhost:8000/api';
 
 const client = axios.create({
   baseURL: API_BASE,
