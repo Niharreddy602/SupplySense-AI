@@ -1,0 +1,5 @@
+tracking_number,supplier_id,quantity,order_date,estimated_delivery,origin,destination,carrier,shipping_cost
+TRK-TEST-77102,1,250,2026-10-25,2026-11-02,Austin Hub,Dallas Distribution,FedEx Priority,125.00
+TRK-TEST-99214,2,80,2026-10-22,2026-10-31,Tokyo Air Freight,Chicago Depot,DHL Express,280.00
+TRK-TEST-33451,3,150,2026-10-18,2026-10-28,Frankfurt Terminal,Newark Hub,UPS Supply Chain,320.00
+

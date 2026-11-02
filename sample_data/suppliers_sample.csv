@@ -1,0 +1,6 @@
+name,contact_email,phone,location,lead_time_days,on_time_delivery_rate,quality_rating,tier
+Aura Electronics Inc,contact@auraelec.com,+1-800-555-0133,Domestic,5,0.98,4.9,Tier 1 (Preferred)
+Vortex Power Systems,sales@vortexpower.de,+49-69-555-0144,Frankfurt (International),8,0.92,4.6,Tier 1 (Preferred)
+Kyoto Precision Actuators,orders@kyotoprecision.jp,+81-75-555-0155,Kyoto (International),14,0.85,4.1,Tier 2 (Standard)
+Shenzhen FastPCB Co,pcb@shenzhenfast.cn,+86-755-555-0166,Shenzhen (International),16,0.78,3.8,Tier 3 (Under Review)
+

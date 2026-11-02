@@ -1,0 +1,8 @@
+sku,name,category,current_stock,reorder_point,safety_stock,lead_time_days,unit_cost,selling_price,supplier_id
+SKU-IOT-1001,Edge Compute Gateway 5G,Industrial IoT,45,30,15,7,85.00,189.99,1
+SKU-SENS-2002,Optical Particle Counter,Sensors,8,25,10,12,32.50,75.00,2
+SKU-PWR-3003,Gallium Nitride 65W Converter,Power,120,50,20,5,14.20,38.50,1
+SKU-MTR-4004,Brushless DC Servo 24V,Actuators,4,20,10,14,48.00,110.00,3
+SKU-MCU-5005,STM32H7 Dual-Core Controller,Semiconductors,210,80,30,8,9.50,24.00,1
+SKU-WFL-6006,LoRaWAN Ultra Long Range Node,Wireless,15,40,15,10,18.00,45.00,4
+

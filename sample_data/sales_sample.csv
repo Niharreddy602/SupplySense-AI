@@ -1,0 +1,10 @@
+sku,date,quantity_sold,unit_price,channel,is_promotion,is_holiday
+SKU-IOT-1001,2026-10-20,12,189.99,Online Store,false,false
+SKU-IOT-1001,2026-10-21,15,189.99,Online Store,false,false
+SKU-IOT-1001,2026-10-22,28,189.99,Wholesale,true,false
+SKU-SENS-2002,2026-10-20,6,75.00,Direct,false,false
+SKU-SENS-2002,2026-10-21,9,75.00,Online Store,false,false
+SKU-PWR-3003,2026-10-20,34,38.50,Online Store,false,false
+SKU-PWR-3003,2026-10-21,41,38.50,Wholesale,true,false
+SKU-MTR-4004,2026-10-20,5,110.00,Direct,false,false
+
